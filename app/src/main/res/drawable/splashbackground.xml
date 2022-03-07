@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/heropedia_background"/>
+    </item>
+    <item
+        android:drawable="@drawable/heropedia_logo"
+        android:end="5dp"
+        android:width="300dp"
+        android:height="300dp"
+        android:gravity="center"/>
+</layer-list>

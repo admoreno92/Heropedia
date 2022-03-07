@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Heropedia</string>
+
+    <!--  Dialog Appearance  -->
+    <string name="dialog_title_appearance">Apariencia</string>
+    <string name="dialog_title_sex">Sexo</string>
+    <string name="dialog_title_race">Raza</string>
+    <string name="dialog_title_height">Altura</string>
+    <string name="dialog_title_weight">Peso</string>
+    <string name="dialog_title_eyecolor">Ojos</string>
+    <string name="dialog_title_haircolor">Cabello</string>
+    <!--  Dialog Bio  -->
+    <string name="dialog_title_bio">Biografía</string>
+    <string name="dialog_title_alteregos">Alter-egos</string>
+    <string name="dialog_title_alias">Alias</string>
+    <string name="dialog_title_birthplace">Lugar de nacimiento</string>
+    <string name="dialog_title_firstapp">Primer aparición</string>
+    <!--  Dialog Connections  -->
+    <string name="dialog_title_connections">Grupos / Familia</string>
+    <string name="dialog_title_affiliations">A pertenecido a</string>
+    <string name="dialog_title_relatives">Familiares</string>
+    <!--  Dialog Stats  -->
+    <string name="dialog_title_powerstats">Estadísticas</string>
+    <string name="dialog_title_intelligence">Inteligencia</string>
+    <string name="dialog_title_speed">Velocidad</string>
+    <string name="dialog_title_strenght">Fuerza</string>
+    <string name="dialog_title_power">Poder</string>
+    <string name="dialog_title_combat">Combate</string>
+    <string name="dialog_title_durability">Vitalidad</string>
+    <!--  Dialog Work  -->
+    <string name="dialog_title_work">Ocupación</string>
+    <string name="dialog_title_ocupation">Trabajo</string>
+    <string name="dialog_title_base">Bases</string>
+    <!--  Dialog Details  -->
+    <string name="dialog_title_btn_powerstats">Estadísticas del personaje</string>
+
+    <!--  Favorite Heroes  -->
+    <string name="sharedpreferences_key">FavHeroes</string>
+    <string name="sharedpreferences_obj_key">ObjHeroes</string>
+
+    <string name="bot_home_title">Inicio</string>
+    <string name="bot_favorite_title">Favoritos</string>
+
+    <string name="navgraph_label_homeFragment">Heropedia</string>
+    <string name="navgraph_label_detailsFragment">Información del personaje</string>
+    <string name="navgraph_label_favFragment">Heroes favoritos</string>
+
+    <string name="heroAlignment_good">Héroe</string>
+    <string name="heroAlignment_evil">Villano</string>
+    <string name="heroAlignment_neutral">Anti-Héroe</string>
+    <!--  Home Fragment  -->
+    <string name="fragment_home_search_title">¡Busca a tu héroe!</string>
+    <string name="fragment_home_button_search_title">Buscar</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
